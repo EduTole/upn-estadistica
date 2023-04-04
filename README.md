@@ -1,0 +1,2 @@
+# upn-estadistica
+informacion probabilidad
